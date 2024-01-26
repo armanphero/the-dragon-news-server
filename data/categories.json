@@ -1,7 +1,8 @@
 [
     {
         "id": "0",
-        "name": "All News"
+        "name": "All News",
+        "route": "all-news"
     },
     {
         "id": "1",
