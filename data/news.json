@@ -1,6 +1,7 @@
 [
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "newsCategory": "international",
         "others_info": {
             "is_todays_pick": false,
             "is_trending": true
@@ -23,6 +24,7 @@
     },
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+        "newsCategory": "international",
         "others_info": {
             "is_todays_pick": false,
             "is_trending": true
@@ -45,6 +47,7 @@
     },
     {
         "_id": "f69a695f037cd9484cecaea37ca71011",
+        "newsCategory": "international",
         "others_info": {
             "is_todays_pick": false,
             "is_trending": true
@@ -67,6 +70,7 @@
     },
     {
         "_id": "f69a695f037cd9484cecaea37ca71012",
+        "newsCategory": "international",
         "others_info": {
             "is_todays_pick": false,
             "is_trending": true
@@ -89,6 +93,7 @@
     },
     {
         "_id": "11468ed61aee84de492a8b04158a22f9",
+        "newsCategory": "sports",
         "others_info": {
             "is_todays_pick": false,
             "is_trending": false
@@ -111,6 +116,7 @@
     },
     {
         "_id": "11468ed61aee84de492a8b04158a22f0",
+        "newsCategory": "sports",
         "others_info": {
             "is_todays_pick": false,
             "is_trending": false
@@ -133,6 +139,7 @@
     },
     {
         "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
+        "newsCategory": "sports",
         "others_info": {
             "is_todays_pick": false,
             "is_trending": true
@@ -155,6 +162,7 @@
     },
     {
         "_id": "a713ee936ff5574273f0f769f5c5b20e",
+        "newsCategory": "sports",
         "others_info": {
             "is_todays_pick": false,
             "is_trending": true
@@ -177,6 +185,7 @@
     },
     {
         "_id": "e342b6c0c8efc8ca9e811991dc8a7900",
+        "newsCategory": "sports",
         "others_info": {
             "is_todays_pick": true,
             "is_trending": false
@@ -199,6 +208,7 @@
     },
     {
         "_id": "e342b6c0c8efc8ca9e811991dc8a7901",
+        "newsCategory": "sports",
         "others_info": {
             "is_todays_pick": false,
             "is_trending": false
@@ -221,6 +231,7 @@
     },
     {
         "_id": "f06f8cc035b04bd1158e4198281915a3",
+        "newsCategory": "sports",
         "others_info": {
             "is_todays_pick": false,
             "is_trending": true
@@ -243,6 +254,7 @@
     },
     {
         "_id": "f06f8cc035b04bd1158e4198281915a4",
+        "newsCategory": "culture",
         "others_info": {
             "is_todays_pick": false,
             "is_trending": true
@@ -265,6 +277,7 @@
     },
     {
         "_id": "cd2b53655737cc4077542baea9f8f75d",
+        "newsCategory": "culture",
         "others_info": {
             "is_todays_pick": false,
             "is_trending": true
@@ -287,6 +300,7 @@
     },
     {
         "_id": "4e6092d54c18fbd89ad59e88a1e87fbb",
+        "newsCategory": "culture",
         "others_info": {
             "is_todays_pick": false,
             "is_trending": false
@@ -309,6 +323,7 @@
     },
     {
         "_id": "7c4dfea0fafddc813673282a428429b7",
+        "newsCategory": "culture",
         "others_info": {
             "is_todays_pick": false,
             "is_trending": true
@@ -331,6 +346,7 @@
     },
     {
         "_id": "30af81e91ab3eafc0bcae0de62f55d5c",
+        "newsCategory": "culture",
         "others_info": {
             "is_todays_pick": false,
             "is_trending": true
@@ -353,6 +369,7 @@
     },
     {
         "_id": "df11ff9feefc37613cc3a4486ce02151",
+        "newsCategory": "culture",
         "others_info": {
             "is_todays_pick": false,
             "is_trending": false
@@ -375,6 +392,7 @@
     },
     {
         "_id": "919db97c34e0778b387dd40cdfa08130",
+        "newsCategory": "culture",
         "others_info": {
             "is_todays_pick": false,
             "is_trending": true
@@ -397,6 +415,7 @@
     },
     {
         "_id": "374df11ae3d9b8b9ce21f4dc53f59b85",
+        "newsCategory": "culture",
         "others_info": {
             "is_todays_pick": false,
             "is_trending": true
@@ -419,6 +438,7 @@
     },
     {
         "_id": "acb9b6785b62698fc6130db7615965e1",
+        "newsCategory": "culture",
         "others_info": {
             "is_todays_pick": false,
             "is_trending": true
@@ -441,6 +461,7 @@
     },
     {
         "_id": "be44c843d61859cc0b87cae85c55f9db",
+        "newsCategory": "culture",
         "others_info": {
             "is_todays_pick": false,
             "is_trending": true
@@ -463,6 +484,7 @@
     },
     {
         "_id": "1b03149c50f1bec662062d930bf46489",
+        "newsCategory": "culture",
         "others_info": {
             "is_todays_pick": false,
             "is_trending": true
@@ -485,6 +507,7 @@
     },
     {
         "_id": "7f5b80c1cdd4df0111918883eae07349",
+        "newsCategory": "culture",
         "others_info": {
             "is_todays_pick": false,
             "is_trending": true
@@ -508,6 +531,7 @@
     },
     {
         "_id": "17d266b79d2fcd850cd4d983c3aeb95f",
+        "newsCategory": "culture",
         "others_info": {
             "is_todays_pick": false,
             "is_trending": true
@@ -530,6 +554,7 @@
     },
     {
         "_id": "61f9ce168f7b15aadecb1d1fc80c72f0",
+        "newsCategory": "art",
         "others_info": {
             "is_todays_pick": false,
             "is_trending": true
@@ -552,6 +577,7 @@
     },
     {
         "_id": "61f9ce168f7b15aadecb1d1fc80c72f7",
+        "newsCategory": "art",
         "others_info": {
             "is_todays_pick": false,
             "is_trending": false
